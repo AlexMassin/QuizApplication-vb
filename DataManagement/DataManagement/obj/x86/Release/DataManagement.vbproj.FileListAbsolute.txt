@@ -1,0 +1,13 @@
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\bin\Release\DataManagement.exe.manifest
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\bin\Release\DataManagement.application
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\bin\Release\DataManagement.exe
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\bin\Release\DataManagement.pdb
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\bin\Release\DataManagement.xml
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\obj\x86\Release\DataManagement.DataManagement.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\obj\x86\Release\DataManagement.Resources.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\obj\x86\Release\DataManagement.vbproj.GenerateResource.Cache
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\obj\x86\Release\DataManagement.exe.manifest
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\obj\x86\Release\DataManagement.application
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\obj\x86\Release\DataManagement.exe
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\obj\x86\Release\DataManagement.xml
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\DataManagement\DataManagement\obj\x86\Release\DataManagement.pdb
